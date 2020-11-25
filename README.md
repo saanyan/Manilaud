@@ -35,6 +35,9 @@ Aside from this, a soundscape map may also enable users to explore different are
 ### Map by:
 <a href="https://public.tableau.com/profile/spatially4u#!/" target="_blank">Andi Tabinas</a>
 
+### Project Adviser:
+<a href="https://coe.upd.edu.ph/faculty-directory/" target="_blank">Prof. Edgardo Macatulad, UP Diliman DGE</a>
+
 #### We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
 
 
